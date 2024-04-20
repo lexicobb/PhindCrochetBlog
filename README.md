@@ -1,2 +1,2 @@
 # PhineCrochetBlog
-Crochet blog created by Phine
+Crochet blog created by Phind
